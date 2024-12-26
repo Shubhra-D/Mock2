@@ -1,0 +1,8 @@
+#nav{
+    display:flex;
+    background-color: rgb(235, 117, 33);
+}
+#nav-links{
+    display:flex;
+   text-decoration: none;
+}
