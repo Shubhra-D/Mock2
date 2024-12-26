@@ -1,0 +1,1 @@
+export const baseurl = "https://root-rustic-wash.glitch.me";
